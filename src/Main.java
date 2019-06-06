@@ -4,5 +4,5 @@ public class Main {
         ProductList list = new ProductList();
         list.printProducts();
         
-    }
+    }     //whaaaat?
 }
