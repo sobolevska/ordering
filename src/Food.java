@@ -1,6 +1,8 @@
 public class Food extends Product {
     public double mass;
+
 //food
+//zhraaatj
     @Override
     public String toString() {
         String output = "";
