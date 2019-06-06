@@ -4,7 +4,7 @@ public class Main {
         ProductList list = new ProductList();
         list.printProducts();
 
-
-        //pievienots komentārs Jeļenas projektam un es arī izmainīju tulīt būūūūs
+        
+        //Labas zemenes tev bija :)))
     }
 }
