@@ -9,4 +9,6 @@ public class Food extends Product {
         output += "  " + description;
         return output;
     }
+
+//pievienoju komentaru no command linux
 }
