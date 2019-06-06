@@ -5,7 +5,8 @@ public class Main {
         list.printProducts();
 
         
-        //Labas zemenes tev bija :)))
+        //Ljauns
+        //jauns
 
     }
 }
