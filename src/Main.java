@@ -5,6 +5,6 @@ public class Main {
         list.printProducts();
 
 
-        //pievienots komentārs Jeļenas projektam
+        //Labas zemenes tev bija :)))
     }
 }
