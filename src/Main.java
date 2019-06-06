@@ -5,6 +5,6 @@ public class Main {
         list.printProducts();
 
 
-        //pievienots komentārs Jeļenas projektam
+        //pievienots komentārs Jeļenas projektam un es arī izmainīju tulīt būūūūs
     }
 }
